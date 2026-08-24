@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="cropped-dark_mode.svg" />
@@ -12,41 +12,41 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 <pre>
-&lt;developer&gt;
+<span>&lt;skills&gt;</span>
 
-  &lt;languages&gt;
+  <span>&lt;languages&gt;</span>
     Java · Python · JavaScript · SQL
-  &lt;/languages&gt;
+  <span>&lt;/languages&gt;</span>
 
-  &lt;backend&gt;
+  <span>&lt;backend&gt;</span>
     Spring Boot · Spring Security
     Spring Data JPA · Hibernate
     REST APIs · Microservices
-  &lt;/backend&gt;
+  <span>&lt;/backend&gt;</span>
 
-  &lt;frontend&gt;
+  <span>&lt;frontend&gt;</span>
     React · HTML · CSS · Tailwind CSS
-  &lt;/frontend&gt;
+  <span>&lt;/frontend&gt;</span>
 
-  &lt;databases&gt;
+  <span>&lt;databases&gt;</span>
     PostgreSQL · MySQL · Redis
     Elasticsearch · Vector Databases
-  &lt;/databases&gt;
+  <span>&lt;/databases&gt;</span>
 
-  &lt;devops&gt;
+  <span>&lt;devops&gt;</span>
     Docker · Kubernetes · AWS
     Kafka · Git · GitHub
-  &lt;/devops&gt;
+  <span>&lt;/devops&gt;</span>
 
-  &lt;ai&gt;
+  <span>&lt;ai&gt;</span>
     Spring AI · LLM Integration
     RAG · Prompt Engineering
-  &lt;/ai&gt;
+  <span>&lt;/ai&gt;</span>
 
-&lt;/developer&gt;
+<span>&lt;/skills&gt;</span>
 </pre>
 
 </td>
