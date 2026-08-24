@@ -14,31 +14,40 @@
 
 <td width="50%" valign="top">
 
-### 🛠️ Technical Skills
+<pre>
+&lt;developer&gt;
 
-**Languages**
-<br>
-Java · Python · JavaScript · SQL
+  &lt;languages&gt;
+    Java · Python · JavaScript · SQL
+  &lt;/languages&gt;
 
-**Backend**
-<br>
-Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST APIs · Microservices
+  &lt;backend&gt;
+    Spring Boot · Spring Security
+    Spring Data JPA · Hibernate
+    REST APIs · Microservices
+  &lt;/backend&gt;
 
-**Frontend**
-<br>
-React · HTML · CSS · Tailwind CSS
+  &lt;frontend&gt;
+    React · HTML · CSS · Tailwind CSS
+  &lt;/frontend&gt;
 
-**Databases**
-<br>
-PostgreSQL · MySQL · Redis · Elasticsearch · Vector Databases
+  &lt;databases&gt;
+    PostgreSQL · MySQL · Redis
+    Elasticsearch · Vector Databases
+  &lt;/databases&gt;
 
-**DevOps & Cloud**
-<br>
-Docker · Kubernetes · AWS · Kafka · Git · GitHub
+  &lt;devops&gt;
+    Docker · Kubernetes · AWS
+    Kafka · Git · GitHub
+  &lt;/devops&gt;
 
-**AI**
-<br>
-Spring AI · LLM Integration · RAG · Prompt Engineering
+  &lt;ai&gt;
+    Spring AI · LLM Integration
+    RAG · Prompt Engineering
+  &lt;/ai&gt;
+
+&lt;/developer&gt;
+</pre>
 
 </td>
 </tr>
