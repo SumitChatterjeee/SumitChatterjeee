@@ -4,6 +4,9 @@
 <tr>
 <td width="50%" align="center" valign="middle">
 
+<p>Glad To See you here, Iam a software enginner/developer trying to build simple applications for the world while maintaining the robustness and scalibilty  </p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="cropped-dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
