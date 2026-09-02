@@ -2,7 +2,7 @@
 
 ### Backend-Focused Software Engineer | Java • Spring Boot • AI
 
-I'm a **BCA student and backend-focused software developer** interested in building scalable, maintainable systems and AI-powered applications.
+I'm a **Bachelor of Computer Applications student and backend-focused software developer** interested in building scalable, maintainable systems and AI-powered applications.
 
 I primarily work with **Java, Spring Boot, REST APIs, databases, microservices, and Docker**, and I also build applications integrating **LLMs, RAG, and AI orchestration**.
 
